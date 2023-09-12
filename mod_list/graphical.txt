@@ -1,0 +1,1 @@
+all_video gfxmenu gfxterm_background gfxterm_menu png jpeg crscreenshot

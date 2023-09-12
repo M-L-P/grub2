@@ -1,0 +1,1 @@
+commandline echo minicmd help version
